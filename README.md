@@ -109,6 +109,14 @@ addnode=4rhhb2l37jerpxfh.onion
 addnode=qr6dvzrz3g6a6p4e.onion
 addnode=v7mqyhrdxb2bqgze.onion
 addnode=qg4guuwggvbyjigw.onion
+addnode=eorrku3hauy53zup.onion
+addnode=xqrvu4rxw7pulgb3.onion
+addnode=mbkpyfwjudi423xp.onion
+addnode=vxp6kyw6hhjzu7r2.onion
+addnode=ayeypndttmb54eeu.onion
+addnode=wchizsqjxr3vtmm6.onion
+addnode=bdfdc3ch5feattda.onion
+addnode=gbqx534g4it22bj6.onion
 ``` 
 
 Restart zend and your node will officially be hidden and outta sight :D
@@ -194,6 +202,14 @@ addnode=4rhhb2l37jerpxfh.onion
 addnode=qr6dvzrz3g6a6p4e.onion
 addnode=v7mqyhrdxb2bqgze.onion
 addnode=qg4guuwggvbyjigw.onion
+addnode=eorrku3hauy53zup.onion
+addnode=xqrvu4rxw7pulgb3.onion
+addnode=mbkpyfwjudi423xp.onion
+addnode=vxp6kyw6hhjzu7r2.onion
+addnode=ayeypndttmb54eeu.onion
+addnode=wchizsqjxr3vtmm6.onion
+addnode=bdfdc3ch5feattda.onion
+addnode=gbqx534g4it22bj6.onion
 ```
 
 Submit a PR to have yours added!
