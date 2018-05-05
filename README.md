@@ -121,6 +121,16 @@ addnode=qkdumxh56iyxlh64.onion
 addnode=ja3dmlnvmxvddqiv.onion
 addnode=bibjccpeo4ynsvwk.onion
 addnode=hk5bgro4r4du54ig.onion
+addnode=btt45hsebudhuzre.onion
+addnode=fq3yhrgugsd4mddb.onion
+addnode=6noiyva65ujhkvkr.onion
+addnode=7pe25co6imeqtwvd.onion
+addnode=xn2i64vmokankqo2.onion
+addnode=nlqewns33li7piel.onion
+addnode=ihzm2thdzhnunzo3.onion
+addnode=hl6dkcnla7pcxoww.onion
+addnode=zr4pevx3fiicaiwj.onion
+addnode=zibr562qgvo3ytsv.onion
 ``` 
 
 Restart zend and your node will officially be hidden and outta sight :D
