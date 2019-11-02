@@ -247,6 +247,7 @@ addnode=ayeypndttmb54eeu.onion
 addnode=wchizsqjxr3vtmm6.onion
 addnode=bdfdc3ch5feattda.onion
 addnode=gbqx534g4it22bj6.onion
+addnode=qciompp4ksqdtwye.onion
 ```
 
 Submit a PR to have yours added!
